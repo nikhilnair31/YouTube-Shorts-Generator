@@ -2,7 +2,8 @@
 ![Header](https://deadline.com/wp-content/uploads/2021/03/YouTube-Shorts-logo.png)
 
 ## Overview
-This project aims to generate engaging YouTube Shorts using the power of Unstructured Data Analysis. By leveraging the PRAW API, GPT (Generative Pretrained Transformer), and Stability AI's StableDiffusion model, this software can generate creative and innovative YouTube Shorts videos, assisting content creators in producing captivating content.
+This project aims to generate engaging YouTube Shorts using the power of Unstructured Data Analysis. By leveraging the PRAW API, GPT (Generative Pretrained Transformer), and Stability AI's StableDiffusion model, this software can generate creative and innovative YouTube Shorts videos, assisting content creators in producing captivating content. 
+[Test YouTube Channel](https://www.youtube.com/@Eerie-Shorts)
 
 ## Features ✨
 - **PRAW Integration** 📥: The application integrates with the PRAW (Python Reddit API Wrapper) API to extract high-quality text data from Reddit. This data is then used as input for the content generation process.
