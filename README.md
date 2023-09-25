@@ -1,4 +1,4 @@
-# YouTube Shorts Generator (w Stable Diffusion and 11Labs)
+# YouTube Shorts Generator (w Stable Diffusion and 11Labs) 💫🎥
 
 ![Header](https://deadline.com/wp-content/uploads/2021/03/YouTube-Shorts-logo.png)
 
@@ -6,7 +6,7 @@
 This project aims to generate engaging YouTube Shorts using the power of Unstructured Data Analysis. By leveraging the PRAW API, GPT (Generative Pretrained Transformer), and Stability AI's StableDiffusion model, this software can generate creative and innovative YouTube Shorts videos, assisting content creators in producing captivating content. 
 [Test YouTube Channel](https://www.youtube.com/@Eerie-Shorts)
 
-## Features ✨
+## Getting Started ✨
 - **PRAW Integration** 📥: The application integrates with the PRAW (Python Reddit API Wrapper) API to extract high-quality text data from Reddit. This data is then used as input for the content generation process.
 - **GPT-based Text Generation** 📝: Using a pre-trained GPT model, the software generates text prompts that serve as the basis for YouTube Shorts scripts.
 - **StableDiffusion Image Synthesis** 🖼️: Stability AI's StableDiffusion model is utilized to generate corresponding visual content for each YouTube Short script. This adds a visually appealing aspect to the generated Shorts.
