@@ -1,4 +1,4 @@
-# MIS284N Unstructured Data Analytics: YouTube Shorts 💫🎥
+# YouTube Shorts Generator (w Stable Diffusion and 11Labs) 💫🎥
 ![Header](https://deadline.com/wp-content/uploads/2021/03/YouTube-Shorts-logo.png)
 
 ## Overview
