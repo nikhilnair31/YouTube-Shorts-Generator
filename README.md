@@ -1,4 +1,5 @@
-# YouTube Shorts Generator (w Stable Diffusion and 11Labs) 💫🎥
+# YouTube Shorts Generator (w Stable Diffusion and 11Labs)
+
 ![Header](https://deadline.com/wp-content/uploads/2021/03/YouTube-Shorts-logo.png)
 
 ## Overview
@@ -17,17 +18,6 @@ This project aims to generate engaging YouTube Shorts using the power of Unstruc
 git clone https://github.com/[username]/MIS284N-UD-YT-Shorts-Generator.git
 ```
 2. Run the notebook 📓
-
-## Usage 🚀
-1. The software will automatically extract relevant data from Reddit using PRAW.
-
-2. The GPT model will generate a text prompt based on the extracted data.
-
-3. The StableDiffusion model will synthesize an image corresponding to the generated text prompt.
-
-4. The generated content will be merged, and the YouTube Short will be rendered as a video file.
-
-5. The file is then uploaded to YouTube as a Shorts video.
 
 ## Contributing 🤝
 Contributions to this project are welcome. Here's how you can get involved:
